@@ -1,4 +1,4 @@
 # Demo01
 This is my first repo
 <br>
-Author- Amit Ramkrushna Borude
+Author- Amit Ramkrushna Borude(Trader)
